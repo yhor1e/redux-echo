@@ -1,7 +1,7 @@
 # Redux echo
 
-minimal echo sample using `[Redux](http://redux.js.org/)`.
-this is not using `[React](https://facebook.github.io/react/)`.
+minimal echo sample using [Redux](http://redux.js.org/).
+this is not using [React](https://facebook.github.io/react/).
 
 ## how to use
 
