@@ -7,11 +7,10 @@ this is not using `[React](https://facebook.github.io/react/)`.
 
 1. set up.
 
-```
-$ npm i
-$ npm run build
-```
-
+  ```
+  $ npm i
+  $ npm run build
+  ```
 2. access to src/index.html with web browser.
 
 ## npm scripts
